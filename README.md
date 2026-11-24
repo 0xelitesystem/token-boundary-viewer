@@ -52,6 +52,6 @@ MIT.
 
 ## Related
 
-- [prompt-token-meter](https://github.com/0xelitesystem/prompt-token-meter), estimate prompt size as you type
+- [context-window-gauges](https://github.com/0xelitesystem/context-window-gauges), estimate prompt size as you type
 - [regex-tester](https://github.com/0xelitesystem/regex-tester), test regular expressions in your browser
 - [gradient-generator](https://github.com/0xelitesystem/gradient-generator), build CSS gradients visually
