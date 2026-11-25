@@ -54,4 +54,4 @@ MIT.
 
 - [context-window-gauges](https://github.com/0xelitesystem/context-window-gauges), estimate prompt size as you type
 - [regex-tester](https://github.com/0xelitesystem/regex-tester), test regular expressions in your browser
-- [gradient-generator](https://github.com/0xelitesystem/gradient-generator), build CSS gradients visually
+- [css-gradient-composer](https://github.com/0xelitesystem/css-gradient-composer), build CSS gradients visually
