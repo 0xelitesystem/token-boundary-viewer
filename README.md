@@ -1,8 +1,8 @@
-# Tokenizer Visualizer
+# Token Boundary Viewer
 
 See approximate token boundaries in any text, color-coded, with a live token and character count. No server, no tracking, no third-party scripts.
 
-**Live demo:** https://0xelitesystem.github.io/tokenizer-visualizer/
+**Live demo:** https://0xelitesystem.github.io/token-boundary-viewer/
 
 ## Use
 
@@ -32,8 +32,8 @@ Everything runs in your browser. The text you paste never leaves your machine. V
 ## Run locally
 
 ```bash
-git clone https://github.com/0xelitesystem/tokenizer-visualizer
-cd tokenizer-visualizer
+git clone https://github.com/0xelitesystem/token-boundary-viewer
+cd token-boundary-viewer
 # Open index.html in your browser, or:
 python -m http.server 8000
 ```
@@ -53,5 +53,5 @@ MIT.
 ## Related
 
 - [context-window-gauges](https://github.com/0xelitesystem/context-window-gauges), estimate prompt size as you type
-- [regex-tester](https://github.com/0xelitesystem/regex-tester), test regular expressions in your browser
+- [js-regex-capture-tester](https://github.com/0xelitesystem/js-regex-capture-tester), test regular expressions in your browser
 - [css-gradient-composer](https://github.com/0xelitesystem/css-gradient-composer), build CSS gradients visually
